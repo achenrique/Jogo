@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'playfair Display', serif;
+}
+
+
+p{
+    color:red;
+    font-size: 14px;
+}
+
+#missao {
+    color: yellow;
+    font-size: 16px
+}
