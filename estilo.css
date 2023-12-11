@@ -14,3 +14,14 @@ p{
     color: yellow;
     font-size: 16px
 }
+#banner {
+    width: 100%;
+}
+
+#conteudo {
+    display: flex;
+    padding: 10px;
+} 
+#beneficio {
+    width:40%
+}
